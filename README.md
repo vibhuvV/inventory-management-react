@@ -4,6 +4,8 @@
 
 Inventory Manager is a web application built using React that helps businesses efficiently track and manage their inventory. The application provides features for updating, and removing inventory items, as well as viewing stock levels.
 
+## [Deployed URL](https://inventory-management-react-sandy.vercel.app)
+
 ## Features
 
 - Dashboard with inventory statistics
